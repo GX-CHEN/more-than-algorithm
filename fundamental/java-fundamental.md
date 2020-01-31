@@ -1,0 +1,45 @@
+## Java Fundamental Knowledge
+
+- What is strongly type?
+- What is type in Java?
+- What is the advantage of strongly type? Disadvantage?
+- What is abstract type?
+- What is difference between interface and abstract class?
+- Which is better? Interface or subclassing?
+- What is difference between run-time error and compiling error. Two examples for each.
+- Different between array and arraylist
+- Priority Queue in Java (Very important for Heap data structure)
+- Checked exception and unchecked exception. Two examples for each
+- try/catch/finally
+- final keyword, static keyword
+- Mutable/Immutable data structure
+- Is everything in Java objects?
+- What is serialization/de-serialization? What is Json?
+- How many class can Java extends?
+- Java naming convention
+- import static
+- HasMap vs. TreeMap
+- Java Enum (very important)
+- List all the collection types you know
+- Overriding vs Overloading
+- Classic OOP concepts
+    - Inheritance
+    - Encapsulation
+    - Polymorphism
+    - Abstraction
+    - Interface
+- When to use public, when to use protected, when to use private?
+- Boxing, unboxing, auto-unboxing
+- constructor
+- What is extends, what is implement?
+- What is the purpose of getter/setter? Why not just all use public?
+- If we do not provide a constructor for Java class, what will happen?
+- What is Singleton, and its use case
+- How to manage memory in Java? What could cause memory leak?
+- this() and super()
+- How to clone an object and Java? Clone array, arraylist, set etc.
+- What is the default value of the local variables? 
+
+Bonus/Optional:
+- Multithreading
+- Runnable

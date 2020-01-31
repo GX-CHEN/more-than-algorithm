@@ -1,0 +1,7 @@
+- session, cookie
+- RESTful
+- stateful vs. stateless server
+- JS ES6
+- What is web preferred image type
+- What is JSON? Serialize and deserialize
+- 
