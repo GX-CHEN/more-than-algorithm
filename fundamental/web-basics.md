@@ -4,4 +4,5 @@
 - JS ES6
 - What is web preferred image type
 - What is JSON? Serialize and deserialize
-- 
+- What is API
+- SQL vs NoSQL
