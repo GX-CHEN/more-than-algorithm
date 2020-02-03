@@ -9,9 +9,9 @@
 - What is the advantage of strongly type? Disadvantage?
 
   > 1. Advantages:
-  > 1. Earlier detection of errors in compiling, speeds development
-  > 1. Type helps team members understand code easier
-  > 1. The posed type restriction can avoid code confusions (in JS, we can add string to number "2"+3=5, which could cause bugs)
+  >    1. Earlier detection of errors in compiling, speeds development
+  >    2. Type helps team members understand code easier
+  >    3. The posed type restriction can avoid code confusions (in JS, we can add string to number "2"+3=5, which could cause bugs)
   > 1. Disadvantage: Not much, if really want to list some disadvantage: since strongly typed need more code for specification, it might affect early stage of development speed, (but in big project, strongly type will speed up development)
 
 - What is difference between run-time error and compiling error. Example for each.
@@ -19,13 +19,13 @@
   > A run time error will only occur when the code is actually running. These are the most difficult, can be hard to track down.
   >
   > 1. Example of compiling error (checked)
-  > 1. Syntax Error (mismatch braces/brackets; missing semi-colon)
-  > 1. Type mismatch
-  > 1. Missing Return Statement
-  > 1. Example of run time error (unchecked)
-  > 1. Incorrect comparison operators (e.g., not using double equal signs to indicate assignment)
-  > 1. Referencing objects that don't exist, or don't exist using the capitalization supplied in the code
-  > 1. Referencing an object that has no properties
+  >    1. Syntax Error (mismatch braces/brackets; missing semi-colon)
+  >    2. Type mismatch
+  >    3. Missing Return Statement
+  > 2. Example of run time error (unchecked)
+  >    1. Incorrect comparison operators (e.g., not using double equal signs to indicate assignment)
+  >    2. Referencing objects that don't exist, or don't exist using the capitalization supplied in the code
+  >    3. Referencing an object that has no properties
 
 - What is Data Abstract in Java, how can it be achieved?
 
